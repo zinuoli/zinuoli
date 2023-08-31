@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m now a research assistant @ University of Macau.
 - 💬 Ask me about anything you like!
 - ⚡ Fun fact: Crazy about coffee and tea ☕️.
-- 📧 Email me via [personal email](<1273180880lzn@gmail.com>) or [official email](<zlii0362@student.monash.edu>).
+- 📧 Email me via my <a href="https://zinuoli.github.io/">website</a>.
 
 ### You may be interested in:
 - Our work <a href="https://github.com/CXH-Research/DocShadow-SD7K">SD7K High-resolution Shadow Removal Dataset</a>.
