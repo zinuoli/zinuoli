@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ### You may be interested in:
 - Our work <a href="https://github.com/CXH-Research/DocShadow-SD7K">SD7K High-resolution Shadow Removal</a>.
-- Our work <a href="https://github.com/CXH-Research/FilmNet">Filmset Large-scale film style dataset</a>.
+- Our work <a href="https://github.com/CXH-Research/FilmNet">Filmset Large-scale Film Style Dataset</a>.
