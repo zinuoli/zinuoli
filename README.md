@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you like!
 - ⚡ Fun fact: Crazy about coffee and tea ☕️.
 
-- ### You may be interested in:
-Our work <a href="https://github.com/CXH-Research/DocShadow-SD7K">SD7K High-resolution Shadow Removal Dataset</a>.
-Our work <a href="https://github.com/CXH-Research/FilmNet">Filmset Large-scale film style dataset</a>.
+### You may be interested in:
+- Our work <a href="https://github.com/CXH-Research/DocShadow-SD7K">SD7K High-resolution Shadow Removal Dataset</a>.
+- Our work <a href="https://github.com/CXH-Research/FilmNet">Filmset Large-scale film style dataset</a>.
