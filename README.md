@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AIGC.
 - 👯 I’m now a research assistant @ University of Macau.
 - 💬 Ask me about anything you like!
-- ⚡ Fun fact: Crazy about coffee and tea ☕️.
+- ⚡ Fun fact: crazy about coffee and tea ☕️.
 - 📧 Email me via my <a href="https://zinuoli.github.io/">website</a>.
 
 ### You may be interested in:
