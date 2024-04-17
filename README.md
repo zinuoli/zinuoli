@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AIGC.
 - 👯 I’m now a PhD student @ University of Western Australia.
 - 💬 Ask me about anything you like!
-- ⚡ Fun fact: crazy about coffee and tea ☕️.
+- ⚡ Fun fact: Love anime so much! Crazy about coffee and tea ☕️.
 - 📧 Email me via my <a href="https://zinuoli.github.io/">website</a>.
 
 ### You may be interested in:
